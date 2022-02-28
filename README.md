@@ -1,2 +1,2 @@
 # Todo
-Todo list web app using hrml,css and javascript
+Todo list web app using html,css and javascript
